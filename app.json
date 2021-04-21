@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "crudfirebase",
-    "slug": "crudfirebase",
+    "name": "Crud using Firebase",
+    "slug": "crud-using-firebase",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,6 +27,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": ""
   }
 }
